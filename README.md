@@ -1,2 +1,2 @@
-# 5-BasicTableView
+# 5 - Basic Table View
 http://samvlu.com/
